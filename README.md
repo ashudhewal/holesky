@@ -18,7 +18,7 @@ It's just one of the protection methods the faucet uses to prevent anyone from r
 If you want to run your own instance you need to transfer the funds you want to distribute to the faucet wallet yourself!
 
 For a more detailed description, take a look into the [Project Wiki](https://github.com/pk910/PoWFaucet/wiki)
-
+guugugugasdfasdf
 # Instances
 
 <table>

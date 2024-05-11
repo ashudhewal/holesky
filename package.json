@@ -6,7 +6,7 @@
   "bin": "bundle/powfaucet.cjs",
   "type": "module",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc && cp -R dist/* public/",
     "build-client": "cd faucet-client && node build-client.js",
     "start": "tsc && node dist/app.js",
     "bundle": "tsc && webpack --mode production",
